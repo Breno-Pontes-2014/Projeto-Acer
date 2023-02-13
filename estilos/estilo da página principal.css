@@ -26,7 +26,7 @@ nav {
 
 nav > a {
     border: 5px 5px 5px black;
-    color: var(--cor1);
+    color:black;
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
@@ -35,8 +35,8 @@ nav > a {
 }
 
 nav > a:hover {
-    background-color: var(--cor3);
-    color: var(--cor5);
+    background-color: royalblue;
+    color: cyan;
 }
 aside {
     text-align: justify;
