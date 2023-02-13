@@ -9,17 +9,22 @@
 }
 
 body{
+    text-align: center;
     background-color: white;
     font-family: var(--fonte-padrao);
 }
-
+header{
+    background-color: rgba(39, 255, 230, 0.492);
+}
 aside {
+    text-align: justify;
     background-color: rgb(201, 201, 201);
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
 }
 main {
+    text-align: justify;
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
