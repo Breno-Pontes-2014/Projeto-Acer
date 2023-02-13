@@ -25,6 +25,7 @@ nav {
 }
 
 nav > a {
+    border: 5px;
     color: var(--cor1);
     padding: 10px;
     border-radius: 5px;
