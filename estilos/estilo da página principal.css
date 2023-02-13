@@ -16,12 +16,16 @@ body{
     font-family: var(--fonte-padrao);
 }
 nav {
-    border-radius: 10px;
+    border-top: 0px;
+    border-bottom: 10px;
     background-color: white;
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
     text-align: center;
 
+}
+a.link{
+    border: ;
 }
 header{
     background-color: rgba(39, 255, 230, 0.492);
