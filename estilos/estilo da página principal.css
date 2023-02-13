@@ -4,24 +4,17 @@
 
 
 :root {
-    --cor0: #ffffff;
-    --cor1: #00FA19;
-    --cor2: #0054E0;
-    --cor3: #F558D0;
-    --cor4: #E08C14;
-    --cor5: #A6FF4F;
-
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
 }
 
 body{
-    background-color: var(--cor0);
+    background-color: white;
     font-family: var(--fonte-padrao);
 }
 
 aside {
-    background-color: var(--cor1);
+    background-color: rgb(201, 201, 201);
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
