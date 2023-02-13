@@ -15,9 +15,6 @@ body{
     background-color: white;
     font-family: var(--fonte-padrao);
 }
-header{
-    background-color: rgba(39, 255, 230, 0.492);
-}
 nav {
     border-radius: 10px;
     background-color: white;
@@ -27,6 +24,7 @@ nav {
 
 }
 header{
+    background-color: rgba(39, 255, 230, 0.492);
     border-radius: 10px;
 }
 nav a {
