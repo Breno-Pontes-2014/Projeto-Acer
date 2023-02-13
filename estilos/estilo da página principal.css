@@ -25,7 +25,9 @@ nav {
     text-align: center;
 
 }
-
+header{
+    padding-bottom: 10px;
+}
 nav > a {
     border: 5px 5px 5px black;
     color:black;
