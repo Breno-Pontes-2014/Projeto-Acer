@@ -27,7 +27,7 @@ header{
     border-radius: 10px;
     height: 150px;
     text-align: center;
-    transform: translate(52%,0%);
+    transform: translate(0%,0%);
 }
 nav a {
     border: 5px 5px 5px black;
