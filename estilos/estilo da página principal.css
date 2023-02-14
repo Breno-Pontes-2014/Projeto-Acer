@@ -28,7 +28,7 @@ header{
     width: 700px;
     height: 150px;
     align-items: center;
-    transform: translate(0%,50%);
+    transform: translate(50%,0%);
 }
 nav a {
     border: 5px 5px 5px black;
