@@ -57,6 +57,6 @@ main {
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
-    background-color: white;
+    background-color: transparent;
     border-radius: 10px;
 }
