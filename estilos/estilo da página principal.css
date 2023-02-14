@@ -25,6 +25,7 @@ a.link{
 header{
     background-color: rgba(39, 255, 230, 0.492);
     border-radius: 10px;
+    float: inline-start;
 }
 nav a {
     border: 5px 5px 5px black;
@@ -48,7 +49,6 @@ aside {
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
 }
 main {
-    float: inline-end;
     text-align: justify;
     min-width: 300px;
     max-width: 1000px;
