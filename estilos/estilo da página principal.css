@@ -50,7 +50,7 @@ aside {
     border-radius: 10px;
 }
 main {
-    transform: translate(50%,50%);
+    transform: translate(1%);
     text-align: justify;
     min-width: 300px;
     max-width: 1000px;
