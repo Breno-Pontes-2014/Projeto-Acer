@@ -48,7 +48,7 @@ aside {
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
 }
 main {
-    float: back;
+    float: inline-end;
     text-align: justify;
     min-width: 300px;
     max-width: 1000px;
