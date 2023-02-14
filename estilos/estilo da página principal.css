@@ -16,10 +16,6 @@ body{
     font-family: var(--fonte-padrao);
 }
 nav {
-    border-top-left-radius: 0px;
-    border-top-right-radius: 0px;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
     background-color: white;
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
@@ -27,13 +23,17 @@ nav {
 
 }
 a.link{
-    border: ;
+    border: 5px solid black;
 }
 header{
     background-color: rgba(39, 255, 230, 0.492);
     border-radius: 10px;
 }
 nav a {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     border: 5px 5px 5px black;
     color:black;
     padding: 10px;
