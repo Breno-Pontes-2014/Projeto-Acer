@@ -9,7 +9,7 @@
 }
 body{
     text-align: center;
-    background-color: rgb(0, 150, 164);
+    background-color: white;
     font-family: var(--fonte-padrao);
 }
 nav {
