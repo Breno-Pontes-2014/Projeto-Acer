@@ -25,7 +25,6 @@ a.link{
 header{
     background-color: rgba(39, 255, 230, 0.492);
     border-radius: 10px;
-    width: 500px;
     height: 150px;
     text-align: center;
     transform: translate(52%,0%);
@@ -52,6 +51,7 @@ aside {
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
 }
 main {
+    transform: translate(200px);
     text-align: justify;
     min-width: 300px;
     max-width: 1000px;
