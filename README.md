@@ -1,2 +1,2 @@
-# Projeto-Intel
-Um projeto sobre a intel
+# Projeto-Acer
+Um projeto sobre a Acer
