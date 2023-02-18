@@ -23,6 +23,7 @@ header{
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
     height: 150px;
+    width: 1500px;
     text-align: center;
     transform: translate(0%,0%);
 }
