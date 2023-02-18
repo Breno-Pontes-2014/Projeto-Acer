@@ -46,9 +46,13 @@ nav a:hover {
 aside {
     border: 10px 10px 10px solid black;
     text-align: center;
-    background-color: rgb(201, 201, 201);
+    background-color: rgb(255, 255, 255);
     padding: 10px;
     border-radius: 10px;
+}
+aside:hover{
+    color: black;
+    background-color: white;
 }
 main {
     text-align: justify;
@@ -57,6 +61,6 @@ main {
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.588);
     border-radius: 10px;
 }
