@@ -9,7 +9,7 @@
 }
 body{
     text-align: center;
-    background-color: white;
+    background-color: rgb(179, 180, 249);
     font-family: var(--fonte-padrao);
 }
 nav {
@@ -31,17 +31,18 @@ header{
 }
 nav a {
     border: 5px 5px 5px black;
-    color:black;
+    color:white;
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
-    transition-duration: .5s;
+    transition-duration: 1s;
+    background-color: rgb(19, 43, 255);
 }
 
 nav a:hover {
-    background-color: royalblue;
-    color: cyan;
+    background-color: black;
+    color: white;
 }
 aside {
     text-align: center;
@@ -50,7 +51,6 @@ aside {
     border-radius: 10px;
 }
 main {
-    transform: translate(1%);
     text-align: justify;
     min-width: 300px;
     max-width: 1000px;
