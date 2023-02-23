@@ -9,7 +9,7 @@
 }
 body{
     text-align: center;
-    background-color: rgb(179, 180, 249);
+    background-color: gray;
     font-family: var(--fonte-padrao);
 }
 nav {
@@ -61,6 +61,6 @@ main {
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.588);
+    background-color: transparent;
     border-radius: 10px;
 }
