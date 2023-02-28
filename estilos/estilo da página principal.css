@@ -9,7 +9,7 @@
 }
 body{
     text-align: center;
-    background-color: gray;
+    background-color: rgb(255, 255, 255);
     font-family: var(--fonte-padrao);
 }
 nav {
@@ -20,7 +20,7 @@ nav {
 
 }
 header{
-    box-shadow: 30px solid black;
+    margin: 50px;
     background-color: rgb(213, 213, 213);
     border-radius: 10px;
     height: 150px;
@@ -44,6 +44,10 @@ nav a:hover {
     background-color: black;
     color: white;
 }
+nav:hover{
+    background-color: white;
+    color: black;
+}
 aside {
     border: 10px 10px 10px solid black;
     text-align: center;
@@ -56,12 +60,11 @@ aside:hover{
     background-color: white;
 }
 main {
+    border: none;
     text-align: justify;
     min-width: 300px;
-    max-width: 1000px;
+    max-width: 500px;
     margin: auto;
     margin-bottom: 30px;
-    padding: 20px;
-    background-color: transparent;
     border-radius: 10px;
 }
