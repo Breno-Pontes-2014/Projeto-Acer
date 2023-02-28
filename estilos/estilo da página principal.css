@@ -57,7 +57,7 @@ aside {
 }
 aside:hover {
     color: black;
-    background-color: white;
+    background-color: gray;
 }
 main {
     border: none;
