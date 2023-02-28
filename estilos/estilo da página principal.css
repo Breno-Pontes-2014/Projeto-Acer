@@ -60,6 +60,7 @@ aside:hover {
     background-color: lightgreen;
 }
 main {
+    background-color: rgba(128, 128, 128, 0.59);
     border: none;
     text-align: justify;
     min-width: 300px;
