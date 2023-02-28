@@ -49,6 +49,7 @@ nav:hover{
     color: black;
 }
 aside {
+    background-color: rgba(128, 128, 128, 0.59);
     border: 10px 10px 10px solid black;
     text-align: center;
     background-color: rgb(255, 255, 255);
@@ -57,7 +58,7 @@ aside {
 }
 aside:hover {
     color: black;
-    background-color: gray;
+    background-color: lightgreen;
 }
 main {
     border: none;
