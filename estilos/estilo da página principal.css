@@ -67,4 +67,5 @@ main {
     margin: auto;
     margin-bottom: 30px;
     border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.688);
 }
