@@ -9,7 +9,7 @@
 }
 body{
     text-align: center;
-    background-color: rgb(209, 209, 209);
+    background-color: rgb(255, 255, 255);
     font-family: var(--fonte-padrao);
 }
 nav {
@@ -60,6 +60,7 @@ aside:hover {
     background-color: lightgreen;
 }
 main {
+    color: black;
     background-color: rgba(128, 128, 128, 0.59);
     border: none;
     text-align: justify;
