@@ -19,7 +19,8 @@ nav {
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
     text-align: center;
     transition: 1s;
-    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 header{
