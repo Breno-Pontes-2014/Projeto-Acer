@@ -92,5 +92,6 @@ footer > p > a:hover{
     transition: 1s;
     background-color: white;
     color: black;
-    margin: 1.5px;
+    padding: 10px;
+    margin: 10px;
 }
