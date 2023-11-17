@@ -89,7 +89,7 @@ footer > p > a{
 }
 footer > p > a:hover{
     border-radius: 5px;
-    transition: 1s;
+    transition: 0.5s;
     background-color: white;
     color: black;
     padding: 10px;
