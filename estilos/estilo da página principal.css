@@ -78,15 +78,18 @@ h3{
     text-align: center;
 }
 footer{
+    padding: 10px;
     background-color: black;
     color: white;
+    border-radius: 5px;
 }
 footer > a{
    text-decoration: none;
-   border-radius: 5px;
 }
 footer > a:hover{
+    border-radius: 5px;
     transition: 1s;
     background-color: white;
     color: black;
+
 }
