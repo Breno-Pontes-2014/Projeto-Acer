@@ -52,6 +52,7 @@ aside {
     text-align: center;
     color: rgb(190, 190, 190);
     padding: 10px;
+    transition: 0.5s;
     border-radius: 10px;
 }
 aside:hover {
