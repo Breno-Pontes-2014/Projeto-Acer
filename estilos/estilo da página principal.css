@@ -77,17 +77,16 @@ h2{
 h3{
     text-align: center;
 }
-footer > a{
-    margin: 10px;
+footer{
+    background-color: black;
     color: white;
-    padding: 10px;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    transition-duration: 1s;
-    background-color: rgba(0, 26, 255, 0.501);
+}
+footer > a{
+   text-decoration: none;
+   border-radius: 5px;
 }
 footer > a:hover{
-    background-color: rgba(172, 255, 47, 0.604);
-    color: white;
+    transition: 1s;
+    background-color: white;
+    color: black;
 }
