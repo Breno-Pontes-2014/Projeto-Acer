@@ -71,6 +71,6 @@ main > aside{
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.688);
 }
-h1{
-    padding-top: 2px;
+h2{
+    text-align: center;
 }
