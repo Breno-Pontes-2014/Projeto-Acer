@@ -9,7 +9,6 @@
 }
 body{
     text-align: center;
-    background-color: rgb(255, 255, 255);
     font-family: var(--fonte-padrao);
 }
 nav {
@@ -22,8 +21,6 @@ nav {
 header{
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
-    height: 100vh;
-    width: 100vw;
     text-align: center;
     transform: translate(0%,0%);
 }
