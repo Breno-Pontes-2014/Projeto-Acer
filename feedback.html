@@ -9,11 +9,8 @@
     <link rel="stylesheet" href="estilos/style.css">
 </head>
 <body>
-    <form action="enviado.html">
-        <h2>
-            <label for="feedback" required>Feedback:</label>
-            <input type="text" name="feedback" id="ifeedback">
-        </h2>
+    <form method="POST" action="enviado.html">
+        <input type="text" name="feedback" required>
         <input type="submit" value="Enviar">
         <input type="reset" value="Limpar mensagem">
     </form>
