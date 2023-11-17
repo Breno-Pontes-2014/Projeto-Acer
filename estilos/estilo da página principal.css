@@ -11,6 +11,7 @@ body{
     text-align: center;
     background-color: rgb(255, 255, 255);
     font-family: var(--fonte-padrao);
+    color: white;
 }
 nav {
     background-color: rgb(216, 220, 254);
@@ -20,7 +21,7 @@ nav {
 
 }
 header{
-    background-color: rgb(118, 152, 255);
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
     height: 100vh;
     width: 100vw;
