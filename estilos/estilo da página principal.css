@@ -55,7 +55,7 @@ main > aside:hover {
 
 main > aside{
     color: rgb(255, 255, 255);
-    background-color: rgba(255, 255, 255, 0.59);
+    background-color: rgba(0, 0, 0);
     border: none;
     text-align: justify;
     margin: auto;
