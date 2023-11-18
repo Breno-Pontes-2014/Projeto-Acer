@@ -54,7 +54,7 @@ main > aside:hover {
 }
 
 main > aside{
-    color: rgb(153, 150, 150);
+    color: rgb(119, 117, 117);
     background-color: rgb(45, 45, 45);
     border: none;
     transition: 1s;
