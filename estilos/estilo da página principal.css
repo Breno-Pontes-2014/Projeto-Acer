@@ -23,6 +23,11 @@ nav {
     border-bottom-right-radius: 10px;
 }
 
+nav:hover{
+    background-color: rgb(87, 255, 143);
+    color: white;
+}
+
 header{
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
@@ -44,18 +49,15 @@ nav>a:hover {
     background-color: rgba(172, 255, 47, 0.604);
     color: white;
 }
-nav:hover{
-    background-color: rgb(153, 153, 153);
-    color: white;
-}
+
 main > aside:hover {
     color: black;
     background-color: rgb(255, 255, 255);
 }
 
 main > aside{
-    color: rgb(119, 117, 117);
-    background-color: rgb(45, 45, 45);
+    color: rgb(61 61 61);
+    background-color: rgb(114 114 114);
     border: none;
     transition: 1s;
     text-align: justify;
